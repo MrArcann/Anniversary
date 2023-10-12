@@ -15,7 +15,7 @@ import wave from "./assets/wavecat.gif"
 import heart from "./assets/catheart.gif"
 import goru from "./assets/goru.gif"
 import cake from "./assets/cake.gif"
-import kiss from "./assets/catkiss.gif"
+import love from "./assets/catlove.gif"
 
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 
@@ -194,7 +194,7 @@ function App() {
 
         <ParallaxLayer sticky={{start: 18, end: 18}}>
           
-          <img src={kiss} />
+          <img src={love} />
 
         </ParallaxLayer>
 

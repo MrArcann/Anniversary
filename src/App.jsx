@@ -105,7 +105,7 @@ function App() {
           speed={0.05}>
           <h2>Kötü zamanlarımda da yanımdaydın ve en önemlisi de buydu.</h2>
           <br />
-          <h2>Bunun için ben ve arkadaşım teşekkür ederiz.</h2>
+          <h2>Bunun için ben ve arkadaşım sana teşekkür ederiz.</h2>
         </ParallaxLayer>
 
 

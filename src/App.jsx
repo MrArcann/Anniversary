@@ -189,7 +189,7 @@ function App() {
           <h2>Artık sonuna geldik.</h2>
           <br />
           
-          <h2>Birlikte geçirdiğimiz 1 yıl gerçekten çok güzeldi. Seninle gittiğimiz her gezi, yediğimiz her yemek, içtiğimiz her kahve keyifliydi. Keyifli muhabbetlerimiz de tartışmalarımız da keyifliydi. Seninle geçirdiğimiz zaman hem beni daha mutlu bir insan yaptı hemde beni geliştirdi. Devamını içtenlikle diliyorum ve seni seviyorum.</h2>
+          <h2>Birlikte geçirdiğimiz 1 yıl gerçekten çok güzeldi. Seninle gittiğimiz her gezi, yediğimiz her yemek, içtiğimiz her kahve keyifliydi. Muhabbetlerimiz de tartışmalarımız da keyifliydi. Seninle geçirdiğimiz her dakika hem beni daha mutlu bir insan yaptı hem de beni geliştirdi. Devamını içtenlikle diliyorum ve seni seviyorum.</h2>
         </ParallaxLayer>
 
         <ParallaxLayer sticky={{start: 18, end: 18}}>

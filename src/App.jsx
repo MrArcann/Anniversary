@@ -120,7 +120,7 @@ function App() {
         <ParallaxLayer 
           offset={8.7} 
           speed={0.05}>
-          <h2>Şimdi küçük bir galeri şovu yapmaya ne dersin?.</h2>
+          <h2>Şimdi küçük bir galeri şovu yapmaya ne dersin?</h2>
         </ParallaxLayer>
 
         <ParallaxLayer

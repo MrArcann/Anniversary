@@ -42,7 +42,7 @@ function App() {
         <ParallaxLayer 
           offset={0.7} 
           speed={0.5}>
-          <h2>Spontane bir arkçı tanışması ve güzel bir vapur yolculuğu.</h2>
+          <h2>Grubun en arkasında tanışıp, güzel konuşmalarla devam edip, en sonunda da tatlı bir vapur yolculuğuyla bitirdik.</h2>
         </ParallaxLayer>
 
         <ParallaxLayer 
@@ -84,7 +84,7 @@ function App() {
         <ParallaxLayer 
           offset={4.7} 
           speed={0.05}>
-          <h2>Mutlu anlarımda her zaman yanımdaydın.</h2>
+          <h2>Bu süre zarfında mutlu anlarımda her zaman yanımdaydın. </h2>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -120,7 +120,7 @@ function App() {
         <ParallaxLayer 
           offset={8.7} 
           speed={0.05}>
-          <h2>Küçük bir galeri şovu kötü olmaz.</h2>
+          <h2>Şimdi küçük bir galeri şovu yapmaya ne dersin?.</h2>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -186,10 +186,9 @@ function App() {
         <ParallaxLayer 
           offset={15} 
           speed={0.05}>
-          <h2>Artık sonuna geldik.</h2>
+          <h2>Birlikte geçirdiğimiz 1 yıl gerçekten çok güzeldi. Seninle gittiğimiz her gezi, yediğimiz her yemek, içtiğimiz her kahve keyifliydi. Muhabbetlerimiz de tartışmalarımız da keyifliydi. Seninle geçirdiğimiz her dakika hem beni daha mutlu bir insan yaptı hem de beni geliştirdi. O yüzden seni seviyorum sevgilim.</h2>
           <br />
-          
-          <h2>Birlikte geçirdiğimiz 1 yıl gerçekten çok güzeldi. Seninle gittiğimiz her gezi, yediğimiz her yemek, içtiğimiz her kahve keyifliydi. Muhabbetlerimiz de tartışmalarımız da keyifliydi. Seninle geçirdiğimiz her dakika hem beni daha mutlu bir insan yaptı hem de beni geliştirdi. Devamını içtenlikle diliyorum ve seni seviyorum.</h2>
+          <h2>İlk yılımız kutlu olsun!</h2>
         </ParallaxLayer>
 
         <ParallaxLayer sticky={{start: 18, end: 18}}>
